@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zero1\Desktop\Abed-flutter\flutter_todoapp\build\windows\CMakeFiles\f72618f8749a7b6ded5b01a91ffdcd03\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{089BB836-C133-31BD-A86C-7A3B1A757428}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
